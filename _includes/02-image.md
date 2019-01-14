@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![techdogs.us](https://files.hoppel.us/techdogs/techdogs1.png)
